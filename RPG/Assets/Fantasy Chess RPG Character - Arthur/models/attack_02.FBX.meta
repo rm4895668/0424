@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: af5f9992aef69544298ef17a68a782d5
+guid: b89e9b607eb123e41b3c4fb550899576
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable:
@@ -872,8 +872,8 @@ ModelImporter:
       name: arthur_attack_01
       takeName: Take 001
       internalID: 0
-      firstFrame: 0
-      lastFrame: 13.8
+      firstFrame: 14
+      lastFrame: 50
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
